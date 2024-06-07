@@ -11,9 +11,6 @@ Using the Apriori algorithm, frequent itemsets were generated. These itemsets re
 ### Association Rule Mining:
 Association rules were generated from the frequent itemsets, focusing on rules with a single antecedent to simplify the analysis. Metrics such as support, confidence, lift, leverage, and conviction were calculated for each rule to measure the strength and significance of the associations. The top association rules were identified based on confidence, showing which items are most likely to be purchased together.
 
-### Key Findings on Mineral Water:
-Detailed analysis was performed on rules with mineral water as the antecedent to understand its relationship with other items. It was found that mineral water has positive associations with several items, including cereals, red wine, avocado, honey, and salmon. Lift values above 1 for these rules indicate that purchasing mineral water increases the likelihood of purchasing these items compared to random chance. Confidence levels suggest that a certain percentage of transactions containing mineral water also include these items.
-
 ### Implications for Retail Strategy:
 The insights derived from the analysis can be applied to optimize product placement, enhance cross-promotion strategies, and target marketing efforts. For example, placing mineral water near cereals and salmon, or creating promotional bundles including these items, can potentially increase sales. Understanding these associations helps in making informed decisions on inventory management and store layout to enhance the customer shopping experience and drive sales.
 
